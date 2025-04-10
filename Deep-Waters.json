@@ -1,11 +1,11 @@
 {
-    "name": "Deep Waters",
+    "name": "Deep Waters 2",
     "description": "Experience blues & bubbles, inspired by the Wii Homebrew Channel, for a calming chat vibe.",
-    "version": "2.4.0",
+    "version": "2.4.1",
     "authors": [
         {
-            "name": "Cyclone",
-            "id": "605791172530536449"
+            "name": "Cyclone 2",
+            "id": "605791172530536450"
         }
     ],
     "semanticColors": {
@@ -116,7 +116,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Yoned-Mikay/horizontest/main/new.png",
+        "url": "https://raw.githubusercontent.com/89wc/themeA/refs/heads/main/bground.png",
         "alpha": 0.4
     },
     "animations": {
